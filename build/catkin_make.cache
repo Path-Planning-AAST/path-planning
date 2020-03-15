@@ -1,0 +1,2 @@
+aamfsd_description:aamfsd_gazebo:robot_control:rosbot_description/src/rosbot_description:rosbot_description/src/rosbot_gazebo:rosbot_description/src/rosbot_navigation:rosbot_launch:tutorial_pkg
+-DCATKIN_DEVEL_PREFIX=/home/youssef/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/youssef/simulation_ws/install -G Unix Makefiles
